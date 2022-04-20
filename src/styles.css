@@ -1,0 +1,18 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.form-container {
+  margin-bottom: 5px;
+}
+
+/* .search-bar {
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  padding: 6px 6px;
+} */
+
+.img {
+  width: 300px;
+}
